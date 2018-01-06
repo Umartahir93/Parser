@@ -1,0 +1,10 @@
+def SelectionSort(int[]num, int length)
+{
+	if num < temp
+		num = 0
+	else
+	{ 	if num < t
+			num = 0
+	}
+}
+

@@ -1,0 +1,39 @@
+Declaration List
+	Declaration
+		DEF
+		SelectionSort
+		(
+		Parameter List
+			INT
+			[
+			]
+			num
+		,
+			INT
+			length
+		)
+		Compound Statement
+			{
+			Local Statements List
+				If Statement
+					IF
+					num
+					<
+					temp
+							num
+							=
+							0
+					ELSE
+						{
+							Statement
+							If Statement
+								IF
+								num
+								<
+								t
+										num
+										=
+										0
+								Statement
+						}
+						SYNTAX ERROR
